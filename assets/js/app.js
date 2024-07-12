@@ -25,10 +25,10 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Packages</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Previous Work</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="packages.html">Packages</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="previous-work.html">Previous Work</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="#contact">Contact</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Reviews</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="reviews.html">Reviews</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
    </li>
